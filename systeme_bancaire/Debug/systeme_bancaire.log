@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (systeme_bancaire.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\_mes_cours\d02\d02_structure_prog_gr2110_22200_arnold\travaux_pratique\systeme_bancaire\main.cpp(358): warning C4018: '<': signed/unsigned mismatch
+c:\_mes_cours\d02\d02_structure_prog_gr2110_22200_arnold\travaux_pratique\systeme_bancaire\main.cpp(367): warning C4018: '<': signed/unsigned mismatch
+  systeme_bancaire.vcxproj -> C:\_mes_cours\d02\d02_structure_prog_gr2110_22200_arnold\travaux_pratique\Debug\tpBanque.exe
